@@ -1,0 +1,14 @@
+octis
+umap-learn
+hdbscan
+nltk
+gensim
+pandas
+numpy
+matplotlib
+seaborn
+gradio
+fastai
+tensorflow-text
+tensorflow
+torch
